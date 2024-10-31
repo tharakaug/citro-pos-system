@@ -51,7 +51,7 @@ td {
 }
 .side-menu {
   position: fixed;
-  background-color: #457b9d;
+  background-color: rgb(69, 123, 157);
   width: 20vw;
   min-height: 100vh;
   display: flex;
@@ -176,13 +176,14 @@ td {
   width: 250px;
   height: 150px;
   background-color: white;
-  /* margin: 20px 10px; */
   border-radius: 5px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   display: flex;
   align-items: center;
   justify-content: space-around;
-  /* flex-direction: column; */
+}
+.container .content .cards .card:hover{
+  box-shadow: 0 4px 8px 0 rgba(69, 123, 157, 2), 0 6px 20px 0 rgba(69, 123, 157, 1.5);
 }
 .icon-case img {
   width: 55px;
