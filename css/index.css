@@ -67,7 +67,7 @@ td {
   display: flex;
   font-size: 24px;
   color: white;
-  padding: 10px 40px;
+  padding: 20px 40px;
   align-items: center;
   text-decoration: none;
   border-radius: 15px;
@@ -81,9 +81,6 @@ td {
 }
 .side-menu li:hover {
   background-color: white;
-  /* img {
-    background-color: #457b9d;
-  } */
    color: black;
   a {
     color: black;
@@ -235,7 +232,7 @@ td {
     display: flex;
     font-size: 17px;
     color: white;
-    padding: 10px 40px;
+    padding: 20px 30px;
     align-items: center;
     text-decoration: none;
     border-radius: 15px;
@@ -407,7 +404,7 @@ td {
     display: flex;
     font-size: 15px;
     color: white;
-    padding: 10px 20px;
+    padding: 15px 20px;
     align-items: center;
     text-decoration: none;
     border-radius: 15px;
